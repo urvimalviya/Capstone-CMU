@@ -1,0 +1,50 @@
+9/12 sent from cpolicicchio@selectintl.com
+
+All,
+ 
+Here are some business requirements, too.  This is not meant to be an exhaustive list.  In other words, there can be and are other requirements that are not included. 
+ 
+Select International administrators (Select admins = super admins) should be able to:
+Register / add participants to specific client sites.  Registration should generate email to participant so they can login and create a password.
+Create projects (or positions) with customized assessment batteries.  A “project” is simply a battery of tests.  For example, ACME, Inc. may want all C-Level executives to take five specific tests, plus be interviewed by an assessor.  That would be a “project.”  Another project would be ACME, Inc. wanting all front9-line managers to take three assessments.
+E-mail the participants.  Messaging should be fairly configurable.  There will be needs to email reminders (to complete an assessment), schedule interviews, general communication, etc.  Additionally, we’d like the following configurable options:
+Automatic reminders (enable and disable) at the project level
+For example, across a specific project, enable a reminder email to go out every 24 hours and remind participant of status. 
+Ability to CC or BCC others on emails
+Access to a full email communication
+NICE TO HAVE:  Customizable email templates.  Allow participants to create a template or canned response to email participants. 
+See the participants’ progress (which assessments have they completed)
+Download individual assessment reports when the participant is done testing
+Upload a final PDF report in the participant’s record
+Reset participant password
+Add comments to a candidate and/or report noting which assessor is assigned to the participant
+NICE TO HAVE:  Bulk registration of candidates
+Receive report URLs via email and receive notifications when the candidate has completed the entire process
+Would need to be able to customize who gets what notifications at the project level and maybe even the candidate level
+Receive notification if a client contact adds a new participant
+ 
+Participants should be able to:
+Receive a link to login/register/set a password. 
+Login and complete a battery of assessments (as specified by admin)
+Be able to login / logout and regain progress (if an assessment is unfinished)
+View their progress in the overall assessment battery
+Receive confirmation when they complete the entire battery (onscreen and/or via e-mail)
+ 
+Select International Client admin (client admin = admin) should be able to:
+Add participants to existing projects/positions and send out emails  
+See participants’ progress (which assessments have they completed)
+Access participants’ reports (some clients will not need access to individual assessment reports; some clients will ONLY need access to the candidate’s final/overall report)
+NICE TO HAVE:  Dashboard of activity (basic dashboard information)
+Receive notification when the candidate is done with the whole process
+ 
+In general, we hope to be able to:
+Enable participants to take an assessment provided by a vendor we have not integrated with.  In other words, allow a super admin to add information to take a test (it might be a unique URL or it might be a portal where the user needs to supply a u/pw).  The Participant can then login and retrieve the information and manually access the assessment. 
+NICE TO HAVE:  Provide system wide reporting.  For example, provide Super Admins with the ability to see how many participants have completed various batteries or have completed various tests (across multiple batteries). 
+NICE TO HAVE:  Do bulk downloads of candidate data across various assessments (it’d be great if we could do it from the front end, but even if dev had to do it for us periodically, that’d be fine)
+Assessor (an assessor is a contractor who works with Select International.  They interview participants *after* the participant has completed all assessments within a battery.).  Assessors will need access to participant assessment results. 
+NICE TO HAVE:  Receive a data file of scores from each assessment vendor when the candidate is done testing
+Take the assessment data from the various vendors and automatically generate a final report (in Word or Txt)  that includes overall scores, narrative text, and potentially some graphs or images
+NICE TO HAVE:  Offer participants to schedule interviews with assessors.
+ 
+Thanks,
+Chris
