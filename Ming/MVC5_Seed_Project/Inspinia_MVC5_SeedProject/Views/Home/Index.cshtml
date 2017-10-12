@@ -1,0 +1,84 @@
+﻿@{
+    ViewBag.Title = "Main";
+}
+
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="text-center m-t-lg">
+                <h1>
+                    @ViewData["SubTitle"]
+                </h1>
+                <small>@ViewData["Message"]</small>
+            </div>
+            <div class="row  border-bottom white-bg dashboard-header">
+
+                <div class="col-sm-6">
+                    <h2>Welcome back Admin</h2>
+                    <small>You have 42 messages and 6 notifications.</small>
+                    <ul class="list-group clear-list m-t">
+                        <li class="list-group-item fist-item">
+                            <span class="pull-right">
+                                09:00 pm
+                            </span>
+                            <span class="label label-success">1</span> Ming started the test
+                        </li>
+                        <li class="list-group-item">
+                            <span class="pull-right">
+                                10:16 am
+                            </span>
+                            <span class="label label-info">2</span> Urvi started the test
+                        </li>
+                        <li class="list-group-item">
+                            <span class="pull-right">
+                                08:22 pm
+                            </span>
+                            <span class="label label-primary">3</span> Tianyi completed the test
+                        </li>
+                        <li class="list-group-item">
+                            <span class="pull-right">
+                                11:06 pm
+                            </span>
+                            <span class="label label-default">4</span> Zirui completed the test
+                        </li>
+                        <li class="list-group-item">
+                            <span class="pull-right">
+                                12:00 am
+                            </span>
+                            <span class="label label-primary">5</span> Toyota Admin just added Chris
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-6">
+                    <div class="statistic-box">
+                        <h4>
+                            Project 001 completion progress
+                        </h4>
+                        <p>
+                            001: Include test 1, test 3 and test 5
+                        </p>
+                        <div class="row text-center">
+                            <div class="col-lg-6">
+                                <canvas id="polarChart" width="80" height="80"></canvas>
+                                <h5>Test 1</h5>
+                            </div>
+                            <div class="col-lg-6">
+                                <canvas id="polarChart" width="80" height="80"></canvas>
+                                <h5>Test 3</h5>
+                            </div>
+                            <div class="col-lg-6">
+                                <canvas id="polarChart" width="80" height="80"></canvas>
+                                <h5>Test 5</h5>
+                            </div>
+
+                        </div>
+                        
+
+                    </div>
+                </div>
+
+            </div>
+            
+        </div>
+    </div>
+</div>
