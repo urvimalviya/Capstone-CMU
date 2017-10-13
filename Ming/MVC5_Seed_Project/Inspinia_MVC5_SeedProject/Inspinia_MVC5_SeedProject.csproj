@@ -247,6 +247,7 @@
     <Content Include="Scripts\plugins\metisMenu\jquery.metisMenu.js" />
     <Content Include="Scripts\plugins\pace\pace.min.js" />
     <Content Include="Scripts\plugins\slimscroll\jquery.slimscroll.min.js" />
+    <Content Include="Views\Home\Participant.cshtml" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

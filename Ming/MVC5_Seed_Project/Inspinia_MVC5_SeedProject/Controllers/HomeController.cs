@@ -39,5 +39,13 @@ namespace Inspinia_MVC5_SeedProject.Controllers
 
             return View();
         }
+        
+        public ActionResult Participant()
+        {
+            ViewData["SubTitle"] = "Select International Online Test Platform";
+            ViewData["Message"] = "Welcome Adam!";
+
+            return View();
+        }
     }
 }

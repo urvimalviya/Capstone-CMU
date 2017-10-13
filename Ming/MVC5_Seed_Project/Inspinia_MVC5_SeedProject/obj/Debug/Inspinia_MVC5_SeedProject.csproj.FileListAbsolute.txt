@@ -1,56 +1,111 @@
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Inspinia_MVC5_SeedProject.dll.config
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Inspinia_MVC5_SeedProject.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Inspinia_MVC5_SeedProject.pdb
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Antlr3.Runtime.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\EntityFramework.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\EntityFramework.SqlServer.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Newtonsoft.Json.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Owin.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Helpers.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Mvc.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Optimization.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Razor.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Deployment.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Razor.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\WebGrease.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\EntityFramework.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\EntityFramework.SqlServer.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Newtonsoft.Json.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Helpers.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Mvc.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Optimization.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.Razor.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Deployment.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\System.Web.WebPages.Razor.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Antlr3.Runtime.pdb
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.csprojResolveAssemblyReference.cache
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.csproj.CoreCompileInputs.cache
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.dll
-C:\Users\lenovo\Dropbox\CMU Life\3rd semester\Capstone\Ming\MVC5_Seed_Project\Inspinia_MVC5_SeedProject\obj\Debug\Inspinia_MVC5_SeedProject.pdb
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Inspinia_MVC5_SeedProject.dll.config
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Inspinia_MVC5_SeedProject.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Inspinia_MVC5_SeedProject.pdb
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Antlr3.Runtime.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/EntityFramework.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/EntityFramework.SqlServer.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Newtonsoft.Json.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Owin.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Helpers.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Mvc.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Optimization.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Razor.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.Deployment.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.Razor.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/WebGrease.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/EntityFramework.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/EntityFramework.SqlServer.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Newtonsoft.Json.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Helpers.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Mvc.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Optimization.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Razor.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.Deployment.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.Razor.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Antlr3.Runtime.pdb
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/obj/Debug/Inspinia_MVC5_SeedProject.csprojResolveAssemblyReference.cache
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/obj/Debug/Inspinia_MVC5_SeedProject.csproj.CoreCompileInputs.cache
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/obj/Debug/Inspinia_MVC5_SeedProject.dll
+C:/Users/lenovo/Dropbox/CMU Life/3rd semester/Capstone/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/obj/Debug/Inspinia_MVC5_SeedProject.pdb
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Inspinia_MVC5_SeedProject.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Inspinia_MVC5_SeedProject.pdb
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Antlr3.Runtime.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/EntityFramework.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/EntityFramework.SqlServer.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.Core.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.Owin.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Host.SystemWeb.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Cookies.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Facebook.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Google.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.OAuth.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Twitter.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Web.Infrastructure.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Newtonsoft.Json.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Owin.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Helpers.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Mvc.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Optimization.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Razor.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.Deployment.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.Razor.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/WebGrease.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/EntityFramework.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/EntityFramework.SqlServer.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.Core.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.AspNet.Identity.Owin.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Cookies.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.OAuth.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Newtonsoft.Json.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Helpers.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Mvc.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Optimization.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.Razor.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.Deployment.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/System.Web.WebPages.Razor.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Antlr3.Runtime.pdb
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Host.SystemWeb.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Facebook.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Google.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.Twitter.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/obj/Debug/Inspinia_MVC5_SeedProject.csprojResolveAssemblyReference.cache
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/obj/Debug/Inspinia_MVC5_SeedProject.csproj.CoreCompileInputs.cache
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/obj/Debug/Inspinia_MVC5_SeedProject.dll
+/Users/terrycao/Google Drive/Capstone-CMU/Ming/MVC5_Seed_Project/Inspinia_MVC5_SeedProject/obj/Debug/Inspinia_MVC5_SeedProject.pdb
