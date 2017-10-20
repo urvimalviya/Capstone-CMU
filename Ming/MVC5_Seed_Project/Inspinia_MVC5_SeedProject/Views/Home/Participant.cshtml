@@ -1,4 +1,6 @@
-﻿@{
+﻿@using Inspinia_MVC5_SeedProject.Controllers
+
+@{
     ViewBag.Title = "Participant";
 }
 
@@ -27,6 +29,25 @@
             </ol>
         </div>
     </div>
+
+    
+    <div class="row wrapper border-bottom white-bg page-heading">
+        <div class="col-sm-4">
+            <h2>Batch Register</h2>
+            
+            
+            @using (Html.BeginForm("uploadfile", "UploadFile", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <div>
+                    <input type="file" name="files" />
+                    <input type="submit" value="Upload" />
+                </div>
+            }
+            
+            
+        </div>
+    </div>
+    
     
     <div class="row">
         <div class="wrapper wrapper-content animated fadeInUp" style="padding-left: 0;padding-right:0">
