@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Inspinia_MVC5_SeedProject.Models;
+using System;
 using System.Web.Mvc;
 
 namespace Inspinia_MVC5_SeedProject.Controllers
@@ -30,12 +31,26 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                             //get lines values
                             string[] values = inputLine.Split(new char[] { ',' });
 
-                            String fname = values[0];
-                            String lname = values[1];
-                            String email = values[2];
-                            String phone = values[3];
-                            
-                            
+                            Candidates candidate = new Candidates
+                            {
+                                FirstName = values[0],
+                                LastName = values[1],
+                                UserName = values[2],
+                                Email = values[3],
+                                Password = values[4],
+                                ProjectId = values[5]
+                            };
+
+                            if (ModelState.IsValid)
+                            {
+                                using (OurDBContext db = new OurDBContext())
+                                {
+                                    db.candidateAccount.Add(candidate);
+                                    db.SaveChanges();
+                                }
+                                ModelState.Clear();
+                                ViewBag.Message = candidate.FirstName + "" + candidate.LastName + "gegistartion done";
+                            }
 
                         }
  
@@ -44,7 +59,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                 }
             }
  
-            return Redirect("/home/uploadfilepage");            
+            return Redirect("/Home/Participant");            
         }
     }
     

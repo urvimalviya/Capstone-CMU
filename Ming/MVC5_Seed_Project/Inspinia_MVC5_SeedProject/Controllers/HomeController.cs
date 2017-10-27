@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using System;
 using Microsoft.VisualBasic.FileIO;
+using Inspinia_MVC5_SeedProject.Models;
 
 namespace Inspinia_MVC5_SeedProject.Controllers
 {
@@ -67,9 +67,17 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                 {
                     // Read current line fields, pointer moves to the next line.
                     string[] fields = csvParser.ReadFields();
-                    string Name = fields[0];
-                    string Address = fields[1];
-                    Console.Write(Name + Address);
+
+                    Candidates candiate = new Candidates
+                    {
+                        FirstName = fields[0],
+                        LastName = fields[1],
+                        UserName = fields[2],
+                        Email = fields[3],
+                        Password = fields[4],
+                        ProjectId = fields[5]
+                    };
+
                 }
             }
         }

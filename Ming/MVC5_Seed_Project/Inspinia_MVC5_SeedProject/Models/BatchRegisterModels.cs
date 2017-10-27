@@ -21,10 +21,16 @@ namespace Inspinia_MVC5_SeedProject.Models
                 while (!csvParser.EndOfData)
                 {
                     // Read current line fields, pointer moves to the next line.
+
+                    Candidates candiate = new Candidates();
                     string[] fields = csvParser.ReadFields();
-                    string Name = fields[0];
-                    string Address = fields[1];
-                    Console.Write(Name + Address);
+                    candiate.FirstName = fields[0];
+                    candiate.LastName = fields[1];
+                    candiate.UserName = fields[2];
+                    candiate.Email = fields[3];
+                    candiate.Password = fields[4];
+                    candiate.ProjectId = fields[5];
+
                 }
             }
         }
