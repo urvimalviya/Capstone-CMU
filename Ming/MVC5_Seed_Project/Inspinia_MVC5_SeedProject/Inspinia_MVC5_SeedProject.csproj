@@ -173,6 +173,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CandidateController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\UploadFileController.cs" />
     <Compile Include="Global.asax.cs">
@@ -181,7 +182,9 @@
     <Compile Include="Helpers\HMTLHelperExtensions.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\BatchRegisterModels.cs" />
+    <Compile Include="Models\Candidates.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\OurDBContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -252,6 +255,10 @@
     <Content Include="Scripts\plugins\metisMenu\jquery.metisMenu.js" />
     <Content Include="Scripts\plugins\pace\pace.min.js" />
     <Content Include="Scripts\plugins\slimscroll\jquery.slimscroll.min.js" />
+    <Content Include="Views\Candidate\Index.cshtml" />
+    <Content Include="Views\Candidate\LoggedIn.cshtml" />
+    <Content Include="Views\Candidate\Login.cshtml" />
+    <Content Include="Views\Candidate\Register.cshtml" />
     <Content Include="Views\Home\Participant.cshtml" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
