@@ -29,7 +29,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                         while ((inputLine = csvReader.ReadLine()) != null)
                         {
                             //get lines values
-                            string[] values = inputLine.Split(new char[] { ',' });
+                            string[] values = inputLine.Split(new char[] { ',','\t' });
 
                             Candidates candidate = new Candidates
                             {
