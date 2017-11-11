@@ -27,6 +27,12 @@
             <li class="@Html.IsSelected(action: "Registration")">
                 <a href="@Url.Action("Register", "Candidate")"><i class="fa fa-desktop"></i> <span class="nav-label">Registration</span></a>
             </li>
+            <li class="@Html.IsSelected(action: "Project")">
+                <a href="@Url.Action("Create", "Project")"><i class="fa fa-desktop"></i> <span class="nav-label">Project</span></a>
+            </li>
+            <li class="@Html.IsSelected(action: "Assessment")">
+                <a href="@Url.Action("Create", "Assessment")"><i class="fa fa-desktop"></i> <span class="nav-label">Assessment</span></a>
+            </li>
             <li class="@Html.IsSelected(action: "TalentList")">
                 <a href="@Url.Action("TalentList", "Home")"><i class="fa fa-desktop"></i> <span class="nav-label">Talent List</span></a>
             </li>
