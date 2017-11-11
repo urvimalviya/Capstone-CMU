@@ -183,14 +183,11 @@
     <Compile Include="Controllers\AssessmentController.cs" />
     <Compile Include="Controllers\CandidateController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-<<<<<<< HEAD
     <Compile Include="Controllers\RequestController.cs" />
     <Compile Include="Controllers\Requests\AssessmentOrder.cs" />
     <Compile Include="Controllers\Requests\SharedInfo.cs" />
     <Compile Include="Controllers\SelectServerController.cs" />
-=======
     <Compile Include="Controllers\ProjectController.cs" />
->>>>>>> 3f4385eeae61b8db4af960f80118e3d558cfa2a7
     <Compile Include="Controllers\UploadFileController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
