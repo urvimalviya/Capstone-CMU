@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae56d825-a221-4fb2-869c-b94b6f972eb3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Register.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Register.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="59" column="66" lean-forward="false" selection-start-line="59" selection-start-column="66" selection-end-line="59" selection-end-column="66" />
+              <folding>
+                <marker date="1510284919000" expanded="true" signature="52:88" ph="@..." />
+                <marker date="1510284919000" expanded="true" signature="90:619" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="156:438" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="213:427" ph="&lt;ol.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="249:321" ph="&lt;li.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="334:413" ph="&lt;li.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="443:612" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="474:601" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="622:1374" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="685:1367" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="711:1356" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="747:1341" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="798:889" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="906:1322" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="954:1299" ph="@..." />
+                <marker date="1510284919000" expanded="true" signature="1063:1299" ph="{...}" />
+                <marker date="1510284919000" expanded="true" signature="1110:1276" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="1377:2138" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="1435:2131" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="1461:2120" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="1497:2105" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="1548:1644" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="1661:2086" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="1729:2042" ph="@..." />
+                <marker date="1510284919000" expanded="true" signature="1806:2042" ph="{...}" />
+                <marker date="1510284919000" expanded="true" signature="1853:2019" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="2143:6278" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="2210:6267" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="2240:6252" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="2280:6233" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="2335:2439" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="2460:6210" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="2512:6182" ph="@..." />
+                <marker date="1510284919000" expanded="true" signature="2537:6182" ph="{...}" />
+                <marker date="1510284919000" expanded="true" signature="2646:6156" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="2771:3232" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="2952:3193" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="3266:3724" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="3446:3685" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="3758:4216" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="3938:4177" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="4250:4699" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="4427:4660" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="4733:5191" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="4913:5152" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="5225:5686" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="5406:5647" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="5720:6121" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="5781:6082" ph="&lt;div.../&gt;" />
+                <marker date="1510284919000" expanded="true" signature="6286:6357" ph="@{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/RequestController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="77" selection-end-column="9" />
+              <folding>
+                <marker date="1510289234000" expanded="true" signature="6:126" ph="..." />
+                <marker date="1510289234000" expanded="true" signature="175:2986" ph="{...}" />
+                <marker date="1510289234000" expanded="true" signature="225:2984" ph="{...}" />
+                <marker date="1510289234000" expanded="true" signature="295:1028" ph="{...}" />
+                <marker date="1510289234000" expanded="true" signature="356:530" ph="{...}" />
+                <marker date="1510289234000" expanded="true" signature="589:863" ph="{...}" />
+                <marker date="1510289234000" expanded="true" signature="1151:2015" ph="{...}" />
+                <marker date="1510289234000" expanded="true" signature="2101:2977" ph="{...}" />
+                <marker date="1510289234000" expanded="true" signature="2725:2942" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssessmentOrderTemplate.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AssessmentOrderTemplate.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectServerController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/SelectServerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <marker date="1510291463000" expanded="true" signature="6:93" ph="..." />
+                <marker date="1510291463000" expanded="true" signature="142:1746" ph="{...}" />
+                <marker date="1510291463000" expanded="true" signature="197:1739" ph="{...}" />
+                <marker date="1510291463000" expanded="true" signature="259:718" ph="{...}" />
+                <marker date="1510291463000" expanded="true" signature="485:651" ph="{...}" />
+                <marker date="1510291463000" expanded="true" signature="542:637" ph="{...}" />
+                <marker date="1510291463000" expanded="true" signature="830:1706" ph="{...}" />
+                <marker date="1510291463000" expanded="true" signature="1454:1671" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AcknowledgementTemplate.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AcknowledgementTemplate.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RouteConfig.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/App_Start/RouteConfig.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1507905013000" expanded="false" signature="6:132" ph="..." />
+                <marker date="1507905013000" expanded="true" signature="169:591" ph="{...}" />
+                <marker date="1507905013000" expanded="true" signature="200:589" ph="{...}" />
+                <marker date="1507905013000" expanded="true" signature="272:583" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cust</find>
+      <find>=</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Registration.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/SelectServerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Helpers/HMTLHelperExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/UploadFileController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/SharedInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AssessmentOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Register.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Login.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/LoggedIn.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/IdentityModels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/RequestController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/OurDBContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/Candidates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/CandidateController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Minor.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Shared/_Navigation.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/FileParser.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/FileParserController.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/BatchRegisterModels.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/UploadController.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/UploadFileController.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Participant.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/CandidateController.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/Candidate.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/Candidates.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/OurDBContext.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/LoggedIn.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Login.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Registration.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AssessmentOrderRequest.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/SharedInfo.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AssessmentOrder.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Register.cshtml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/RequestController.cs" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AssessmentOrderTemplate.xml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AssessmentOrderAcknowledgementTemplate.xml" />
+        <option value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/SelectServerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Helpers" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Requests" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App_Start" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inspinia_MVC5_SeedProject" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="References" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="FullScreen" value="true" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Inspinia_MVC5_SeedProject.csproj" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.1" />
+      <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5001" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae56d825-a221-4fb2-869c-b94b6f972eb3" name="Default" comment="" />
+      <created>1507905523221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507905523221</updated>
+      <workItem from="1507905525259" duration="478000" />
+      <workItem from="1507906083710" duration="1779000" />
+      <workItem from="1508519220973" duration="8291000" />
+      <workItem from="1509043962676" duration="1128000" />
+      <workItem from="1509065796141" duration="1539000" />
+      <workItem from="1509672356642" duration="401000" />
+      <workItem from="1510203535356" duration="16362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29978000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48534584" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35638922" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52872217" sideWeight="0.49444443" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20694445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/RequestController.cs</url>
+          <line>66</line>
+          <properties startOffset="2458" endOffset="2508" documentPath="$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/RequestController.cs" />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <marker date="1509670301000" expanded="false" signature="6:182" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="231:2479" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="278:2477" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:508" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="552:729" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="771:944" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="986:1117" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1168:1347" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1389:2471" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1550:2461" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1890:2447" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="2130:2427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1509067337000" expanded="true" signature="65:98" ph="@..." />
+            <marker date="1509067337000" expanded="true" signature="100:369" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="166:362" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="220:351" ph="&lt;ol.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="256:337" ph="&lt;li.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="372:2218" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="435:2210" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="461:2199" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="497:2184" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="548:780" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="626:757" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="797:2165" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="825:2141" ph="&lt;table.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="865:1303" ph="&lt;tr.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="878:955" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="964:1040" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1049:1125" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1134:1207" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1216:1293" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1305:2132" ph="@..." />
+            <marker date="1509067337000" expanded="true" signature="1334:2132" ph="{...}" />
+            <marker date="1509067337000" expanded="true" signature="1340:2130" ph="&lt;tr.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1353:1429" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1438:1513" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1522:1597" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1606:1678" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1687:1763" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1772:2120" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="192" column="0" lean-forward="false" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+          <folding>
+            <marker date="1509674426000" expanded="true" signature="0:32" ph="@..." />
+            <marker date="1509674426000" expanded="true" signature="34:8581" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="97:8574" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="119:8563" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="147:3408" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="193:3397" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="223:826" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="262:807" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="317:493" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="514:784" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="839:1441" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="878:1422" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="933:1108" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1129:1399" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1454:2064" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1493:2045" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1548:1725" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1746:2022" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2077:2686" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2116:2667" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2171:2347" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2368:2644" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2699:3382" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2738:3363" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2793:3062" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2895:3035" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3083:3340" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3145:3313" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3413:8552" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3435:8541" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3463:8517" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3502:3983" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3599:3972" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3636:3727" ph="&lt;a.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3740:3861" ph="&lt;a.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3874:3957" ph="&lt;a.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3988:8506" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4023:4866" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4053:4553" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4099:4534" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4566:4851" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4605:4832" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4701:4826" ph="&lt;span.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4875:8495" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4918:8480" ph="&lt;table.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4970:5380" ph="&lt;thead.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4994:5355" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="5397:8459" ph="&lt;tbody.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="5421:6011" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="6028:6618" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="6635:7220" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="7237:7827" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="7844:8434" ph="&lt;tr.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/UploadFileController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <marker date="1509670301000" expanded="true" signature="6:75" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="124:2337" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="178:2325" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="244:2319" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:2245" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="462:2231" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="625:2213" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="953:2146" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1210:1563" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1617:2119" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1724:1918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/CandidateController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="32" lean-forward="false" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding>
+            <marker date="1509066589000" expanded="false" signature="6:146" ph="..." />
+            <marker date="1509066589000" expanded="true" signature="209:2299" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="261:2297" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="329:522" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="396:483" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="562:609" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="688:1129" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="734:1092" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="809:939" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1182:1229" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1280:2046" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1347:2008" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1659:1882" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1882:1994" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="2086:2291" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="2139:2198" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="2203:2281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/UploadFileController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <marker date="1509670301000" expanded="true" signature="6:75" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="124:2337" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="178:2325" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="244:2319" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:2245" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="462:2231" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="625:2213" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="953:2146" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1210:1563" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1617:2119" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1724:1918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <marker date="1509670301000" expanded="false" signature="6:182" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="231:2479" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="278:2477" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:508" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="552:729" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="771:944" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="986:1117" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1168:1347" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1389:2471" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1550:2461" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1890:2447" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="2130:2427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1509067337000" expanded="true" signature="65:98" ph="@..." />
+            <marker date="1509067337000" expanded="true" signature="100:369" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="166:362" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="220:351" ph="&lt;ol.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="256:337" ph="&lt;li.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="372:2218" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="435:2210" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="461:2199" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="497:2184" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="548:780" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="626:757" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="797:2165" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="825:2141" ph="&lt;table.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="865:1303" ph="&lt;tr.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="878:955" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="964:1040" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1049:1125" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1134:1207" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1216:1293" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1305:2132" ph="@..." />
+            <marker date="1509067337000" expanded="true" signature="1334:2132" ph="{...}" />
+            <marker date="1509067337000" expanded="true" signature="1340:2130" ph="&lt;tr.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1353:1429" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1438:1513" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1522:1597" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1606:1678" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1687:1763" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1772:2120" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="6" lean-forward="true" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+          <folding>
+            <marker date="1509674426000" expanded="true" signature="0:32" ph="@..." />
+            <marker date="1509674426000" expanded="true" signature="34:8581" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="97:8574" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="119:8563" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="147:3408" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="193:3397" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="223:826" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="262:807" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="317:493" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="514:784" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="839:1441" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="878:1422" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="933:1108" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1129:1399" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1454:2064" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1493:2045" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1548:1725" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1746:2022" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2077:2686" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2116:2667" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2171:2347" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2368:2644" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2699:3382" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2738:3363" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2793:3062" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2895:3035" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3083:3340" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3145:3313" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3413:8552" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3435:8541" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3463:8517" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3502:3983" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3599:3972" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3636:3727" ph="&lt;a.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3740:3861" ph="&lt;a.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3874:3957" ph="&lt;a.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3988:8506" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4023:4866" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4053:4553" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4099:4534" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4566:4851" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4605:4832" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4701:4826" ph="&lt;span.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4875:8495" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4918:8480" ph="&lt;table.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4970:5380" ph="&lt;thead.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4994:5355" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="5397:8459" ph="&lt;tbody.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="5421:6011" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="6028:6618" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="6635:7220" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="7237:7827" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="7844:8434" ph="&lt;tr.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <marker date="1509670301000" expanded="false" signature="6:182" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="231:2479" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="278:2477" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:508" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="552:729" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="771:944" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="986:1117" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1168:1347" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1389:2471" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1550:2461" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1890:2447" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="2130:2427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/UploadFileController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <marker date="1509670301000" expanded="true" signature="6:75" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="124:2337" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="178:2325" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="244:2319" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:2245" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="462:2231" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="625:2213" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="953:2146" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1210:1563" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1617:2119" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1724:1918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Registration.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" column="35" lean-forward="false" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Shared/_Navigation.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Participant.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="12" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <folding>
+            <marker date="1509670301000" expanded="false" signature="6:182" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="231:2479" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="278:2477" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:508" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="552:729" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="771:944" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="986:1117" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1168:1347" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1389:2471" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1550:2461" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1890:2447" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="2130:2427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Shared/_Navigation.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Participant.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="80" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Registration.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" column="35" lean-forward="false" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509670301000" expanded="false" signature="6:182" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="231:2479" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="278:2477" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:508" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="552:729" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="771:944" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="986:1117" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1168:1347" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1389:2471" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1550:2461" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1890:2447" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="2130:2427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Shared/_TopNavbar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Shared/_Footer.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/FileParserController.cs" />
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/TalentList.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-698">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/BatchRegisterModels.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/UploadController.cs" />
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/AccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4507">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Shared/_Navigation.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Participant.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="36" column="12" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/AccountViewModels.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/OurDBContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/LoggedIn.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Login.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="122" column="5" lean-forward="false" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1509067337000" expanded="true" signature="65:98" ph="@..." />
+            <marker date="1509067337000" expanded="true" signature="100:369" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="166:362" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="220:351" ph="&lt;ol.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="256:337" ph="&lt;li.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="372:2218" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="435:2210" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="461:2199" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="497:2184" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="548:780" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="626:757" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="797:2165" ph="&lt;div.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="825:2141" ph="&lt;table.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="865:1303" ph="&lt;tr.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="878:955" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="964:1040" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1049:1125" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1134:1207" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1216:1293" ph="&lt;th.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1305:2132" ph="@..." />
+            <marker date="1509067337000" expanded="true" signature="1334:2132" ph="{...}" />
+            <marker date="1509067337000" expanded="true" signature="1340:2130" ph="&lt;tr.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1353:1429" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1438:1513" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1522:1597" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1606:1678" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1687:1763" ph="&lt;td.../&gt;" />
+            <marker date="1509067337000" expanded="true" signature="1772:2120" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/Candidates.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Models/IdentityModels.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="192" column="0" lean-forward="false" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+          <folding>
+            <marker date="1509674426000" expanded="true" signature="0:32" ph="@..." />
+            <marker date="1509674426000" expanded="true" signature="34:8581" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="97:8574" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="119:8563" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="147:3408" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="193:3397" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="223:826" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="262:807" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="317:493" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="514:784" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="839:1441" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="878:1422" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="933:1108" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1129:1399" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1454:2064" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1493:2045" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1548:1725" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="1746:2022" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2077:2686" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2116:2667" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2171:2347" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2368:2644" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2699:3382" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2738:3363" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2793:3062" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="2895:3035" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3083:3340" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3145:3313" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3413:8552" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3435:8541" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3463:8517" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3502:3983" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3599:3972" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3636:3727" ph="&lt;a.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3740:3861" ph="&lt;a.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3874:3957" ph="&lt;a.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="3988:8506" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4023:4866" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4053:4553" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4099:4534" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4566:4851" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4605:4832" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4701:4826" ph="&lt;span.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4875:8495" ph="&lt;div.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4918:8480" ph="&lt;table.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4970:5380" ph="&lt;thead.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="4994:5355" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="5397:8459" ph="&lt;tbody.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="5421:6011" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="6028:6618" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="6635:7220" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="7237:7827" ph="&lt;tr.../&gt;" />
+            <marker date="1509674426000" expanded="true" signature="7844:8434" ph="&lt;tr.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <marker date="1509670301000" expanded="false" signature="6:182" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="231:2479" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="278:2477" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:508" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="552:729" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="771:944" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="986:1117" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1168:1347" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1389:2471" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1550:2461" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1890:2447" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="2130:2427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Home/Registration.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="70" selection-end-column="14" />
+          <folding>
+            <marker date="1510204533000" expanded="true" signature="0:40" ph="@..." />
+            <marker date="1510204533000" expanded="true" signature="42:6830" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="105:6821" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="131:370" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="167:355" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="216:284" ph="&lt;h1.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="389:2328" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="455:2313" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="489:2294" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="533:2271" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="592:1739" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="714:1708" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="771:902" ph="&lt;a.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="935:1096" ph="&lt;a.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="1129:1517" ph="&lt;ul.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="1206:1324" ph="&lt;li.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="1361:1479" ph="&lt;li.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="1550:1673" ph="&lt;a.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="1764:2244" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="1819:2184" ph="&lt;form.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="2346:3221" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="2412:3206" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="2446:3187" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="2490:3164" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="2549:2661" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="2686:3137" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="2741:3106" ph="&lt;form.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="3232:6810" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="3298:6795" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="3332:6776" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="3376:6753" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="3435:4583" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="3558:4552" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="3615:3746" ph="&lt;a.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="3779:3940" ph="&lt;a.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="3973:4361" ph="&lt;ul.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="4050:4168" ph="&lt;li.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="4205:4323" ph="&lt;li.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="4394:4517" ph="&lt;a.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="4608:6726" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="4663:6695" ph="&lt;form.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="4739:5039" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="4894:5000" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="5139:5438" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="5293:5399" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="5538:5833" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="5688:5794" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="5933:6235" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="6090:6196" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="6270:6659" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="6331:6620" ph="&lt;div.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="6832:7906" ph="@{...}" />
+            <marker date="1510204533000" expanded="true" signature="6898:7904" ph="&lt;script.../&gt;" />
+            <marker date="1510204533000" expanded="true" signature="6968:7888" ph="{...}" />
+            <marker date="1510204533000" expanded="true" signature="7020:7877" ph="{...}" />
+            <marker date="1510204533000" expanded="true" signature="7241:7862" ph="{...}" />
+            <marker date="1510204533000" expanded="true" signature="7396:7559" ph="{...}" />
+            <marker date="1510204533000" expanded="true" signature="7621:7644" ph="{...}" />
+            <marker date="1510204533000" expanded="true" signature="7721:7744" ph="{...}" />
+            <marker date="1510204533000" expanded="true" signature="7819:7842" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/CandidateController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="54" column="32" lean-forward="false" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding>
+            <marker date="1509066589000" expanded="false" signature="6:146" ph="..." />
+            <marker date="1509066589000" expanded="true" signature="209:2299" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="261:2297" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="329:522" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="396:483" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="562:609" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="688:1129" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="734:1092" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="809:939" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1182:1229" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1280:2046" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1347:2008" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1659:1882" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="1882:1994" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="2086:2291" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="2139:2198" ph="{...}" />
+            <marker date="1509066589000" expanded="true" signature="2203:2281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Helpers/HMTLHelperExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1507905013000" expanded="false" signature="6:133" ph="..." />
+            <marker date="1507905013000" expanded="true" signature="170:1168" ph="{...}" />
+            <marker date="1507905013000" expanded="true" signature="217:1166" ph="{...}" />
+            <marker date="1507905013000" expanded="true" signature="357:956" ph="{...}" />
+            <marker date="1507905013000" expanded="true" signature="1018:1160" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.config/NuGet/NuGet.Config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/UploadFileController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <marker date="1509670301000" expanded="true" signature="6:75" ph="..." />
+            <marker date="1509670301000" expanded="true" signature="124:2337" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="178:2325" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="244:2319" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="320:2245" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="462:2231" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="625:2213" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="953:2146" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1210:1563" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1617:2119" ph="{...}" />
+            <marker date="1509670301000" expanded="true" signature="1724:1918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AssessmentOrder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1510277865000" expanded="true" signature="56:418" ph="{...}" />
+            <marker date="1510277865000" expanded="true" signature="91:416" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/SharedInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="95" lean-forward="false" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
+          <folding>
+            <marker date="1510275273000" expanded="true" signature="56:461" ph="{...}" />
+            <marker date="1510275273000" expanded="true" signature="86:459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/App_Start/RouteConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507905013000" expanded="false" signature="6:132" ph="..." />
+            <marker date="1507905013000" expanded="true" signature="169:591" ph="{...}" />
+            <marker date="1507905013000" expanded="true" signature="200:589" ph="{...}" />
+            <marker date="1507905013000" expanded="true" signature="272:583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Views/Candidate/Register.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="59" column="66" lean-forward="false" selection-start-line="59" selection-start-column="66" selection-end-line="59" selection-end-column="66" />
+          <folding>
+            <marker date="1510284919000" expanded="true" signature="52:88" ph="@..." />
+            <marker date="1510284919000" expanded="true" signature="90:619" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="156:438" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="213:427" ph="&lt;ol.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="249:321" ph="&lt;li.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="334:413" ph="&lt;li.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="443:612" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="474:601" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="622:1374" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="685:1367" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="711:1356" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="747:1341" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="798:889" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="906:1322" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="954:1299" ph="@..." />
+            <marker date="1510284919000" expanded="true" signature="1063:1299" ph="{...}" />
+            <marker date="1510284919000" expanded="true" signature="1110:1276" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="1377:2138" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="1435:2131" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="1461:2120" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="1497:2105" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="1548:1644" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="1661:2086" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="1729:2042" ph="@..." />
+            <marker date="1510284919000" expanded="true" signature="1806:2042" ph="{...}" />
+            <marker date="1510284919000" expanded="true" signature="1853:2019" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="2143:6278" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="2210:6267" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="2240:6252" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="2280:6233" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="2335:2439" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="2460:6210" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="2512:6182" ph="@..." />
+            <marker date="1510284919000" expanded="true" signature="2537:6182" ph="{...}" />
+            <marker date="1510284919000" expanded="true" signature="2646:6156" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="2771:3232" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="2952:3193" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="3266:3724" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="3446:3685" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="3758:4216" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="3938:4177" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="4250:4699" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="4427:4660" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="4733:5191" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="4913:5152" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="5225:5686" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="5406:5647" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="5720:6121" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="5781:6082" ph="&lt;div.../&gt;" />
+            <marker date="1510284919000" expanded="true" signature="6286:6357" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/RequestController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="77" selection-end-column="9" />
+          <folding>
+            <marker date="1510289234000" expanded="true" signature="6:126" ph="..." />
+            <marker date="1510289234000" expanded="true" signature="175:2986" ph="{...}" />
+            <marker date="1510289234000" expanded="true" signature="225:2984" ph="{...}" />
+            <marker date="1510289234000" expanded="true" signature="295:1028" ph="{...}" />
+            <marker date="1510289234000" expanded="true" signature="356:530" ph="{...}" />
+            <marker date="1510289234000" expanded="true" signature="589:863" ph="{...}" />
+            <marker date="1510289234000" expanded="true" signature="1151:2015" ph="{...}" />
+            <marker date="1510289234000" expanded="true" signature="2101:2977" ph="{...}" />
+            <marker date="1510289234000" expanded="true" signature="2725:2942" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AssessmentOrderTemplate.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/Requests/AcknowledgementTemplate.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inspinia_MVC5_SeedProject/Controllers/SelectServerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <marker date="1510291463000" expanded="true" signature="6:93" ph="..." />
+            <marker date="1510291463000" expanded="true" signature="142:1746" ph="{...}" />
+            <marker date="1510291463000" expanded="true" signature="197:1739" ph="{...}" />
+            <marker date="1510291463000" expanded="true" signature="259:718" ph="{...}" />
+            <marker date="1510291463000" expanded="true" signature="485:651" ph="{...}" />
+            <marker date="1510291463000" expanded="true" signature="542:637" ph="{...}" />
+            <marker date="1510291463000" expanded="true" signature="830:1706" ph="{...}" />
+            <marker date="1510291463000" expanded="true" signature="1454:1671" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

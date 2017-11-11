@@ -1,0 +1,22 @@
+﻿<AssessmentOrderAcknowledgement xmlns="http://ns.hr-xml.org/2007-04-15">
+    <ClientId idOwner="Select International">
+        <IdValue name="ClientCode"></IdValue>
+    </ClientId>
+    <ProviderId idOwner="Select International">
+        <IdValue name="ProviderKey"></IdValue>
+    </ProviderId>
+    <ReceiptId idOwner="Select International">
+        <IdValue name="ReceiptKey"></IdValue>
+    </ReceiptId>
+    <ClientOrderId idOwner="IntegrationPartner">
+        <IdValue name="CustomerNumber"></IdValue>
+    </ClientOrderId>
+    <AccessPoint>
+        <InternetWebAddress>[ASSESSMENTURL]</InternetWebAddress>
+        <Description>[DESCRIPTION]</Description>
+    </AccessPoint>
+    <AssessmentStatus>
+        <Status>[STATUS]</Status>
+        <StatusDate>[STATUSDATE]</StatusDate>
+    </AssessmentStatus>
+</AssessmentOrderAcknowledgement>
