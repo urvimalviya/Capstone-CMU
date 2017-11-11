@@ -54,6 +54,8 @@ TestResults/
 *.sqlite
 # OS generated files #
 ######################
+.vs
+.idea
 .DS_Store
 ehthumbs.db
 Icon?
