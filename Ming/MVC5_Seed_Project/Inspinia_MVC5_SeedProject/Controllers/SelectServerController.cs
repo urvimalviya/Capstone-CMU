@@ -14,7 +14,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
         [HttpPost]
         public void ReceiveXmlData()
         {
-            Console.Write("Received\n");
+            // Console.Write("Received\n");
 
             string strmContents="";
 
@@ -26,7 +26,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                 }
             }
             
-            Console.Write(strmContents);
+            // Console.Write(strmContents);
             
             XmlDocument doc = new XmlDocument();
             doc.LoadXml(strmContents);

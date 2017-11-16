@@ -199,6 +199,7 @@
     <Compile Include="Models\Assessments.cs" />
     <Compile Include="Models\BatchRegisterModels.cs" />
     <Compile Include="Models\Candidates.cs" />
+    <Compile Include="Models\Clients.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\OurDBContext.cs" />
     <Compile Include="Models\Projects.cs" />

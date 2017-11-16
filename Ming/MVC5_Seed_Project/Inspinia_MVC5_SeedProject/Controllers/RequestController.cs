@@ -1,6 +1,8 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 using System.Net;
 using System.Web.Mvc;
+using System.Xml;
 using Inspinia_MVC5_SeedProject.Controllers.Requests;
 using SuperXML;
 
@@ -16,7 +18,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                 ClientCode = "001",
                 ProviderKey = "abcdef",
                 CustomerNumber = "Coke",
-                RequisitionId = "test01"    //Assessment id
+                RequisitionId = "test01" //Assessment id
             };
 
             var order = new AssessmentOrder
@@ -47,19 +49,50 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             var xml = GenerateAssessmentStatusRequest(info);
             PostXmlData("http://localhost:5001/SelectServer/ReceiveXmlData", xml);
         }
-        
-        
+
+
         [HttpPost]
         public void GetAcknowledgementResponse()
         {
-            
-            
+            Console.Write("Received AcknowledgementResponse\n");
+
+            string strmContents = "";
+
+            using (System.IO.StreamReader reader = new System.IO.StreamReader(Request.InputStream))
+            {
+                while (reader.Peek() >= 0)
+                {
+                    strmContents += reader.ReadLine();
+                }
+            }
+
+            Console.Write(strmContents);
+
         }
-        
-        
-        
-        
-        
+
+        private void ParseAssessmentOrderResponse(string XmlString)
+        {
+            XmlDocument doc = new XmlDocument();
+            doc.LoadXml(XmlString);
+            XmlElement root = doc.DocumentElement;
+            String requestType = root.Name;
+            Console.Write(requestType);
+
+            string ReceiptKey = "";
+            XmlNodeList clientId = doc.GetElementsByTagName("ClientId");
+            if (clientId.Count >= 1)
+            {
+                // The tag could be found!
+                ReceiptKey = clientId[0].InnerText;
+                Console.Write(ReceiptKey);
+            }
+
+        }
+
+
+
+
+
         private string GenerateAssessmentOrderRequestXml(SharedInfo info, AssessmentOrder order)
         {
             var compiler = new Compiler()
@@ -79,8 +112,8 @@ namespace Inspinia_MVC5_SeedProject.Controllers
 
             return result;
         }
-        
-        
+
+
         private string GenerateAssessmentStatusRequest(SharedInfo info)
         {
             var compiler = new Compiler()
@@ -88,17 +121,17 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                 .AddKey("ProviderKey", info.ProviderKey)
                 .AddKey("CustomerNumber", info.CustomerNumber)
                 .AddKey("ReceiptId", info.ReceiptId);
-            
+
             var path = Directory.GetCurrentDirectory() + "/Controllers/Requests/AssessmentStatusTemplate.xml";
             var result = compiler.CompileXml(path);
 
             return result;
         }
-        
+
 
         public string PostXmlData(string destinationUrl, string requestXml)
         {
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(destinationUrl);
+            HttpWebRequest request = (HttpWebRequest) WebRequest.Create(destinationUrl);
             byte[] bytes;
             bytes = System.Text.Encoding.ASCII.GetBytes(requestXml);
             request.ContentType = "text/xml; encoding='utf-8'";
@@ -107,7 +140,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             Stream requestStream = request.GetRequestStream();
             requestStream.Write(bytes, 0, bytes.Length);
             requestStream.Close();
-            var response = (HttpWebResponse)request.GetResponse();
+            var response = (HttpWebResponse) request.GetResponse();
             if (response.StatusCode == HttpStatusCode.OK)
             {
                 Stream responseStream = response.GetResponseStream();
