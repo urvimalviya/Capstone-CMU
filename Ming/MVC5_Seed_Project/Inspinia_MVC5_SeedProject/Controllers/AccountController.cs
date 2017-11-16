@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Claims;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
 using Inspinia_MVC5_SeedProject.Models;
+using Inspinia_MVC5_SeedProject.Helpers;
 
 namespace Inspinia_MVC5_SeedProject.Controllers
 {
@@ -93,6 +90,26 @@ namespace Inspinia_MVC5_SeedProject.Controllers
 
             // If we got this far, something failed, redisplay form
             return View(model);
+        }
+
+        // GET: /Account/ForgotPassword
+        [AllowAnonymous]
+        public ActionResult ForgotPassword()
+        {
+            return View();
+        }
+
+        // POST: /Account/ForgotPassword
+        [HttpPost]
+        [AllowAnonymous]
+        public ActionResult ForgotPassword(ForgotPasswordViewModel model)
+        {
+            //checks to be done??? if user exists in the database??
+            string message = "Your new password is " + model.UserName;
+            CustomEmail resetMail = new CustomEmail();
+            resetMail.sendMail(model.EmailId, "Reset Password Request", message);
+
+            return RedirectToAction("Login", "Account");
         }
 
         //

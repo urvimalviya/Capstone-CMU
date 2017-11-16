@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Linq;
 using System.Web.Mvc;
 using Inspinia_MVC5_SeedProject.Models; //using model
+using Inspinia_MVC5_SeedProject.Helpers;
 
 namespace Inspinia_MVC5_SeedProject.Controllers
 {
@@ -34,8 +32,14 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                     db.candidateAccount.Add(candidate);
                     db.SaveChanges();
                 }
+
+                //send a registration email once changes are saved in the database
+                CustomEmail regMail = new CustomEmail();
+                regMail.sendMail(candidate.Email, "Select International Registration", "Welcome to our platform!");
+
                 ModelState.Clear();
-                ViewBag.Message = candidate.FirstName + "" + candidate.LastName + "gegistartion done";
+                ViewBag.Message = candidate.FirstName + "" + candidate.LastName + "registration done";
+
             }
             return View();
         }
