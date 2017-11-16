@@ -1,4 +1,4 @@
-@model IEnumerable<Inspinia_MVC5_SeedProject.Models.Candidates>
+﻿@model IEnumerable<Inspinia_MVC5_SeedProject.Models.Candidates>
 
 @{
     ViewBag.Title = "Index";
@@ -43,8 +43,15 @@
             @Html.DisplayNameFor(model => model.Email)
         </th>
         <th>
+            @Html.DisplayNameFor(model => model.Requestor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th>
             @Html.DisplayNameFor(model => model.ProjectId)
         </th>
+        <th></th>
     </tr>
 
 @foreach (var item in Model) {
@@ -62,6 +69,12 @@
             @Html.DisplayFor(modelItem => item.Email)
         </td>
         <td>
+            @Html.DisplayFor(modelItem => item.Requestor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
             @Html.DisplayFor(modelItem => item.ProjectId)
         </td>
         <td>
@@ -71,6 +84,7 @@
         </td>
     </tr>
 }
+
 </table>
 
                 </div>
@@ -78,3 +92,6 @@
         </div>
     </div>
  </div>
+
+
+
