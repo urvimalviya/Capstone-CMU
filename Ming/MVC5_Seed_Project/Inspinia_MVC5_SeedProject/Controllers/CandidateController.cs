@@ -40,6 +40,20 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                 ModelState.Clear();
                 ViewBag.Message = candidate.FirstName + "" + candidate.LastName + "registration done";
 
+                //sending request to external vendor and other XML part handled here
+                //if this is successful, need to make changes in UploadFileController too
+                //should we do this async?
+                using (OurDBContext db = new OurDBContext())
+                {
+                    Candidates cand1 = db.candidateAccount.Single(g => g.UserName == candidate.UserName);
+                    string clientCode = cand1.Requestor;
+                    Client client = db.clientAccount.Find(clientCode);
+
+                    RequestController rc = new RequestController();
+                    rc.AssessmentOrderRequest(clientCode, client.ProviderKey , client.CustomerNumber,
+                        "test01", candidate.UserID, client.CallBackUri,
+                        candidate.LastName, candidate.FirstName, candidate.Email);
+                }
             }
             return View();
         }
@@ -54,7 +68,6 @@ namespace Inspinia_MVC5_SeedProject.Controllers
         {
             using (OurDBContext db = new OurDBContext())
             {
-                //var usr = db.userAccount.Where(u => u.Username == user.Username && u.Password == user.Password).FirstOrDefault();
                 var usr = db.candidateAccount.Where(u => u.UserName == can.UserName && u.Password == can.Password).FirstOrDefault();
                 if (usr != null)
                 {

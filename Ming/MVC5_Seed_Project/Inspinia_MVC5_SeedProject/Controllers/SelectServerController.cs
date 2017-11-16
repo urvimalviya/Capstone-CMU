@@ -61,44 +61,72 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             }
             if (requestType.Equals("AssessmentOrderRequest"))
             {
-                SendAcknowledgementResponse(clientCode, providerKey, CustomerNumber);
+
+                SendAcknowledgementResponse(clientCode, providerKey, CustomerNumber, true);
             }
-        }
+            else
+            {
+                SendAcknowledgementResponse(clientCode, providerKey, CustomerNumber, false);
+            }
+        }  
         
-        
-        
-        public void SendAcknowledgementResponse(string ClientCode, string ProviderKey, string CustomerNumber)
+       
+        public void SendAcknowledgementResponse(string ClientCode, string ProviderKey, string CustomerNumber, bool flag)
+
         {
             var info = new SharedInfo
             {
-                ClientCode = "001",
-                ProviderKey = "abcdef",
-                CustomerNumber = "Coke",
+                ClientCode = ClientCode,
+                ProviderKey = ProviderKey,
+                CustomerNumber = CustomerNumber,
                 ReceiptId = "receipt0001"
             };
 
-            var acknowledgement = new Acknowledgement()
+            var acknowledgement1 = new Acknowledgement()
             {
                 AssessmentUrl = "http://assessment_url/",
                 Description =  "Assessment descriptions"
                 // Not sending status if not started
             };
             
-            var xml = GenerateAcknowledgementResponseXml(info, acknowledgement);
+            var acknowledgement2 = new Acknowledgement()
+            {
+                Status = "80", //0-100
+                StatusDate =  "Noverber 15, 2017"
+                // Not sending status if not started
+            };
+            
+            var xml = GenerateAcknowledgementResponseXml(info, acknowledgement1, acknowledgement2, flag);
             PostXmlData("http://localhost:5001/Request/GetAcknowledgementResponse", xml);
         }
 
-        public string GenerateAcknowledgementResponseXml(SharedInfo info, Acknowledgement acknowledgement)
+        public string GenerateAcknowledgementResponseXml(SharedInfo info, Acknowledgement acknowledgement1, Acknowledgement acknowledgement2, bool flag)
         {
-            var compiler = new Compiler()
-                .AddKey("ClientCode", info.ClientCode)
-                .AddKey("ProviderKey", info.ProviderKey)
-                .AddKey("ReceiptId", info.ReceiptId)
-                .AddKey("CustomerNumber", info.CustomerNumber)
-                .AddKey("AssessmentUrl", acknowledgement.AssessmentUrl)
-                .AddKey("Description", acknowledgement.Description)
-                .AddKey("Status", acknowledgement.Status)
-                .AddKey("StatusDate", acknowledgement.StatusDate);
+            var compiler = new Compiler();
+            
+            if (flag)
+            {
+                    compiler.AddKey("ClientCode", info.ClientCode)
+                    .AddKey("ProviderKey", info.ProviderKey)
+                    .AddKey("ReceiptId", info.ReceiptId)
+                    .AddKey("CustomerNumber", info.CustomerNumber)
+                    .AddKey("AssessmentUrl", acknowledgement1.AssessmentUrl)
+                    .AddKey("Description", acknowledgement1.Description)
+                    .AddKey("Status", acknowledgement1.Status)
+                    .AddKey("StatusDate", acknowledgement1.StatusDate);
+            }
+            else
+            {
+                compiler.AddKey("ClientCode", info.ClientCode)
+                    .AddKey("ProviderKey", info.ProviderKey)
+                    .AddKey("ReceiptId", info.ReceiptId)
+                    .AddKey("CustomerNumber", info.CustomerNumber)
+                    .AddKey("AssessmentUrl", acknowledgement2.AssessmentUrl)
+                    .AddKey("Description", acknowledgement2.Description)
+                    .AddKey("Status", acknowledgement2.Status)
+                    .AddKey("StatusDate", acknowledgement2.StatusDate);
+            }
+            
             
             var path = Directory.GetCurrentDirectory() + "/Controllers/Requests/AcknowledgementTemplate.xml";
             var result = compiler.CompileXml(path);
