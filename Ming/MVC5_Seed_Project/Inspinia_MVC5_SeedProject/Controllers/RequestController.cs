@@ -15,15 +15,15 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             {
                 ClientCode = "001",
                 ProviderKey = "abcdef",
-                CustomerNumber = "00001",
-                RequisitionId = "test01"
+                CustomerNumber = "Coke",
+                RequisitionId = "test01"    //Assessment id
             };
 
             var order = new AssessmentOrder
             {
                 EmployeeNumber = "1",
                 CallBackUri = "http://localhost:5001/",
-                Requestor = "Google",
+                Requestor = "Coke",
                 LastName = "Cao",
                 FirstName = "Tianyi",
                 CandidateEmail = "tcao@andrew.cmu.edu"
@@ -32,6 +32,21 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             var xml = GenerateAssessmentOrderRequestXml(info, order);
             PostXmlData("http://localhost:5001/SelectServer/ReceiveXmlData", xml);
         }
+
+        [HttpPost]
+        public void AssessmentStatusRequest()
+        {
+            var info = new SharedInfo
+            {
+                ClientCode = "001",
+                ProviderKey = "abcdef",
+                CustomerNumber = "00001",
+                RequisitionId = "test01"
+            };
+            
+            
+        }
+        
         
         
         

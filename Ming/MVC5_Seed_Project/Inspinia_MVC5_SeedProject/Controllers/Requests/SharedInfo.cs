@@ -1,5 +1,6 @@
 ﻿namespace Inspinia_MVC5_SeedProject.Controllers.Requests
 {
+    // This is the class for storing 
     public class SharedInfo
     {
         public string ClientCode { get; set; }
