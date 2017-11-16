@@ -2,6 +2,7 @@
 using System.IO;
 using System.Net;
 using System.Web.Mvc;
+using System.Xml;
 using System.Xml.Linq;
 using Inspinia_MVC5_SeedProject.Controllers.Requests;
 using SuperXML;
@@ -26,9 +27,41 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             }
             
             Console.Write(strmContents);
+            
+            XmlDocument doc = new XmlDocument();
+            doc.LoadXml(strmContents);
+            string clientCode = "";
+            string providerKey = "";
+            string CustomerNumber = "";
+            XmlNodeList clientId = doc.GetElementsByTagName("ClientId");
+            if(clientId.Count >= 1)
+            {
+                // The tag could be found!
+                clientCode= clientId[0].InnerText;
+                Console.Write(clientCode);
+            }
+            
+            XmlNodeList providerId = doc.GetElementsByTagName("ProviderId");
+            if(providerId.Count >= 1)
+            {
+                // The tag could be found!
+                providerKey= providerId[0].InnerText;
+                Console.Write(providerKey);
+            }
+            
+            XmlNodeList CustomerId = doc.GetElementsByTagName("ClientOrderId");
+            if(CustomerId.Count >= 1)
+            {
+                // The tag could be found!
+                CustomerNumber = CustomerId[0].InnerText;
+                Console.Write(CustomerNumber);
+            }
 
         }
-
+        
+        
+        
+        
         public void SendAcknowledgementResponse()
         {
             var info = new SharedInfo
