@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<AssessmentStatusRequest xmlns="http://ns.hr-xml.org/2007-04-15">
+﻿<AssessmentStatusRequest xmlns="http://ns.hr-xml.org/2007-04-15">
     <ClientId idOwner="Select International">
         <IdValue name="ClientCode">{{ClientCode}}</IdValue>
     </ClientId>
