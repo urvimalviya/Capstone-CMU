@@ -3,6 +3,8 @@ using System.IO;
 using System.Net;
 using System.Web.Mvc;
 using System.Xml.Linq;
+using Inspinia_MVC5_SeedProject.Controllers.Requests;
+using SuperXML;
 
 namespace Inspinia_MVC5_SeedProject.Controllers
 {
@@ -12,9 +14,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
         public void ReceiveXmlData()
         {
             Console.Write("Received\n");
-            
-            
-            
+
             string strmContents="";
 
             using(System.IO.StreamReader reader = new System.IO.StreamReader(Request.InputStream))
@@ -27,12 +27,47 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             
             Console.Write(strmContents);
 
+        }
 
+        public void SendAcknowledgementResponse()
+        {
+            var info = new SharedInfo
+            {
+                ClientCode = "001",
+                ProviderKey = "abcdef",
+                CustomerNumber = "Coke",
+                ReceiptId = "receipt0001"
+            };
+
+            var acknowledgement = new Acknowledgement()
+            {
+                AssessmentUrl = "http://assessment_url/",
+                Description =  "Assessment descriptions"
+                // Not sending status if not started
+            };
+            
+            var xml = GenerateAcknowledgementResponseXml(info, acknowledgement);
+            PostXmlData("http://localhost:5001/Request/GetAcknowledgementResponse", xml);
+        }
+
+        public string GenerateAcknowledgementResponseXml(SharedInfo info, Acknowledgement acknowledgement)
+        {
+            var compiler = new Compiler()
+                .AddKey("ClientCode", info.ClientCode)
+                .AddKey("ProviderKey", info.ProviderKey)
+                .AddKey("ReceiptId", info.ReceiptId)
+                .AddKey("CustomerNumber", info.CustomerNumber)
+                .AddKey("AssessmentUrl", acknowledgement.AssessmentUrl)
+                .AddKey("Description", acknowledgement.Description)
+                .AddKey("Status", acknowledgement.Status)
+                .AddKey("StatusDate", acknowledgement.StatusDate);
+            
+            var path = Directory.GetCurrentDirectory() + "/Controllers/Requests/AcknowledgementTemplate.xml";
+            var result = compiler.CompileXml(path);
+
+            return result;
 
         }
-        
-        
-        
         
         public string PostXmlData(string destinationUrl, string requestXml)
         {
@@ -54,9 +89,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             }
             return null;
         }
-        
-        
-        
+
     }
     
 }

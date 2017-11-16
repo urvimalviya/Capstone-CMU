@@ -34,15 +34,24 @@ namespace Inspinia_MVC5_SeedProject.Controllers
         }
 
         [HttpPost]
-        public void AssessmentStatusRequest()
+        public void SendAssessmentStatusRequest()
         {
             var info = new SharedInfo
             {
                 ClientCode = "001",
                 ProviderKey = "abcdef",
                 CustomerNumber = "00001",
-                RequisitionId = "test01"
+                ReceiptId = "receipt0001"
             };
+
+            var xml = GenerateAssessmentStatusRequest(info);
+            PostXmlData("http://localhost:5001/SelectServer/ReceiveXmlData", xml);
+        }
+        
+        
+        [HttpPost]
+        public void GetAcknowledgementResponse()
+        {
             
             
         }
@@ -50,7 +59,8 @@ namespace Inspinia_MVC5_SeedProject.Controllers
         
         
         
-        public string GenerateAssessmentOrderRequestXml(SharedInfo info, AssessmentOrder order)
+        
+        private string GenerateAssessmentOrderRequestXml(SharedInfo info, AssessmentOrder order)
         {
             var compiler = new Compiler()
                 .AddKey("ClientCode", info.ClientCode)
@@ -65,6 +75,21 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                 .AddKey("CandidateEmail", order.CandidateEmail);
 
             var path = Directory.GetCurrentDirectory() + "/Controllers/Requests/AssessmentOrderTemplate.xml";
+            var result = compiler.CompileXml(path);
+
+            return result;
+        }
+        
+        
+        private string GenerateAssessmentStatusRequest(SharedInfo info)
+        {
+            var compiler = new Compiler()
+                .AddKey("ClientCode", info.ClientCode)
+                .AddKey("ProviderKey", info.ProviderKey)
+                .AddKey("CustomerNumber", info.CustomerNumber)
+                .AddKey("ReceiptId", info.ReceiptId);
+            
+            var path = Directory.GetCurrentDirectory() + "/Controllers/Requests/AssessmentStatusTemplate.xml";
             var result = compiler.CompileXml(path);
 
             return result;

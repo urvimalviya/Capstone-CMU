@@ -184,6 +184,7 @@
     <Compile Include="Controllers\CandidateController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\RequestController.cs" />
+    <Compile Include="Controllers\Requests\Acknowledgement.cs" />
     <Compile Include="Controllers\Requests\AssessmentOrder.cs" />
     <Compile Include="Controllers\Requests\SharedInfo.cs" />
     <Compile Include="Controllers\SelectServerController.cs" />
@@ -219,7 +220,7 @@
     <Content Include="Content\style.css" />
     <Content Include="Controllers\Requests\AcknowledgementTemplate.xml" />
     <Content Include="Controllers\Requests\AssessmentOrderTemplate.xml" />
-    <Content Include="Controllers\Requests\AssessmentStatuTemplate.xml" />
+    <Content Include="Controllers\Requests\AssessmentStatusTemplate.xml" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\font-awesome\css\font-awesome.css" />
     <Content Include="fonts\font-awesome\css\font-awesome.min.css" />
