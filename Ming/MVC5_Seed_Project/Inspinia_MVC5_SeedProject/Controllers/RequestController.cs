@@ -9,24 +9,25 @@ namespace Inspinia_MVC5_SeedProject.Controllers
     public class RequestController : Controller
     {
         [HttpPost]
-        public void AssessmentOrderRequest()
+        public void AssessmentOrderRequest(string clientCode, string providerKey, string custNum, string reqID, string empNum, string uri,
+            string lastName, string firstName, string email)
         {
             var info = new SharedInfo
             {
-                ClientCode = "001",
-                ProviderKey = "abcdef",
-                CustomerNumber = "Coke",
-                RequisitionId = "test01"    //Assessment id
+                ClientCode = clientCode, // "001",
+                ProviderKey = providerKey,//"abcdef",
+                CustomerNumber = custNum, // "Coke",
+                RequisitionId = reqID  //"test01"    - Assessment id
             };
 
             var order = new AssessmentOrder
             {
-                EmployeeNumber = "1",
-                CallBackUri = "http://localhost:5001/",
-                Requestor = "Coke",
-                LastName = "Cao",
-                FirstName = "Tianyi",
-                CandidateEmail = "tcao@andrew.cmu.edu"
+                EmployeeNumber = empNum, // "1",
+                CallBackUri = uri, //"http://localhost:5001/",
+                Requestor = custNum, // "Coke",
+                LastName = lastName, //"Cao",
+                FirstName = firstName, //"Tianyi",
+                CandidateEmail = email //"tcao@andrew.cmu.edu"
             };
 
             var xml = GenerateAssessmentOrderRequestXml(info, order);
@@ -47,19 +48,19 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             var xml = GenerateAssessmentStatusRequest(info);
             PostXmlData("http://localhost:5001/SelectServer/ReceiveXmlData", xml);
         }
-        
-        
+
+
         [HttpPost]
         public void GetAcknowledgementResponse()
         {
-            
-            
+
+
         }
-        
-        
-        
-        
-        
+
+
+
+
+
         private string GenerateAssessmentOrderRequestXml(SharedInfo info, AssessmentOrder order)
         {
             var compiler = new Compiler()
@@ -79,8 +80,8 @@ namespace Inspinia_MVC5_SeedProject.Controllers
 
             return result;
         }
-        
-        
+
+
         private string GenerateAssessmentStatusRequest(SharedInfo info)
         {
             var compiler = new Compiler()
@@ -88,13 +89,13 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                 .AddKey("ProviderKey", info.ProviderKey)
                 .AddKey("CustomerNumber", info.CustomerNumber)
                 .AddKey("ReceiptId", info.ReceiptId);
-            
+
             var path = Directory.GetCurrentDirectory() + "/Controllers/Requests/AssessmentStatusTemplate.xml";
             var result = compiler.CompileXml(path);
 
             return result;
         }
-        
+
 
         public string PostXmlData(string destinationUrl, string requestXml)
         {

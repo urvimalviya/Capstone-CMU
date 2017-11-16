@@ -182,6 +182,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\AssessmentController.cs" />
     <Compile Include="Controllers\CandidateController.cs" />
+    <Compile Include="Controllers\ClientController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\RequestController.cs" />
     <Compile Include="Controllers\Requests\Acknowledgement.cs" />
@@ -199,6 +200,7 @@
     <Compile Include="Models\Assessments.cs" />
     <Compile Include="Models\BatchRegisterModels.cs" />
     <Compile Include="Models\Candidates.cs" />
+    <Compile Include="Models\Client.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\OurDBContext.cs" />
     <Compile Include="Models\Projects.cs" />
