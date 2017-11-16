@@ -9,7 +9,9 @@ namespace Inspinia_MVC5_SeedProject.Models
     public class OurDBContext: DbContext //DbContext
     {
         public DbSet<Candidates> candidateAccount { get; set; }
+        public DbSet<Clients> clientAccount { get; set; }
         public DbSet<Projects> projectList { get; set; }
         public DbSet<Assessments> assessmentList { get; set; }
+        
     }
 }
