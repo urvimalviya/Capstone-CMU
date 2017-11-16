@@ -50,9 +50,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
                     Client client = db.clientAccount.Find(clientCode);
 
                     RequestController rc = new RequestController();
-                    rc.AssessmentOrderRequest(clientCode, client.ProviderKey , client.CustomerNumber,
-                        "test01", candidate.UserID, client.CallBackUri,
-                        candidate.LastName, candidate.FirstName, candidate.Email);
+                    rc.AssessmentOrderRequest(clientCode, client.ProviderKey , client.CustomerNumber, "test01", candidate.UserID, client.CallBackUri, candidate.LastName, candidate.FirstName, candidate.Email);
                 }
             }
             return View();
