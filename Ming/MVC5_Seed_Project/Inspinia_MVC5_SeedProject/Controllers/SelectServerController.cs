@@ -61,7 +61,7 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             }
             if (requestType.Equals("AssessmentOrderRequest"))
             {
-<<<<<<< HEAD
+
                 SendAcknowledgementResponse(clientCode, providerKey, CustomerNumber, true);
             }
             else
@@ -70,22 +70,15 @@ namespace Inspinia_MVC5_SeedProject.Controllers
             }
         }  
         
+       
         public void SendAcknowledgementResponse(string ClientCode, string ProviderKey, string CustomerNumber, bool flag)
-=======
-                SendAcknowledgementResponse(clientCode, providerKey, CustomerNumber);
-            }
-        }
-        
-        
-        
-        public void SendAcknowledgementResponse(string ClientCode, string ProviderKey, string CustomerNumber)
->>>>>>> 1b179173413ec767b71320e2d954cabc689c0def
+
         {
             var info = new SharedInfo
             {
-                ClientCode = "001",
-                ProviderKey = "abcdef",
-                CustomerNumber = "Coke",
+                ClientCode = ClientCode,
+                ProviderKey = ProviderKey,
+                CustomerNumber = CustomerNumber,
                 ReceiptId = "receipt0001"
             };
 
