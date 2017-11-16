@@ -42,10 +42,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.AspNet.Identity.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -200,7 +200,11 @@
     <Compile Include="Models\Assessments.cs" />
     <Compile Include="Models\BatchRegisterModels.cs" />
     <Compile Include="Models\Candidates.cs" />
+<<<<<<< HEAD
     <Compile Include="Models\Client.cs" />
+=======
+    <Compile Include="Models\Clients.cs" />
+>>>>>>> a943416f4ca262a2dc62e415f9370ee61ce1f1f3
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\OurDBContext.cs" />
     <Compile Include="Models\Projects.cs" />
@@ -316,6 +320,8 @@
     <Content Include="Views\Project\Index.cshtml" />
     <Content Include="Views\Assessment\Index.cshtml" />
     <Content Include="Views\Account\ForgotPassword.cshtml" />
+    <Content Include="Views\Client\Create.cshtml" />
+    <Content Include="Views\Client\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
