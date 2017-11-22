@@ -11,8 +11,8 @@ namespace Inspinia_MVC5_SeedProject.Controllers
     public class RequestController : Controller
     {
         [HttpPost]
-        public void AssessmentOrderRequest(string clientCode, string providerKey, string custNum, string reqID, string empNum, string uri,
-            string lastName, string firstName, string email)
+        public void AssessmentOrderRequest(string clientCode, string providerKey, string custNum, string reqID,
+            string empNum, string uri, string lastName, string firstName, string email)
         {
             var info = new SharedInfo
             {
